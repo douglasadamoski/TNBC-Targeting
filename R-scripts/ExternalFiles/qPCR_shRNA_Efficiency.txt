@@ -1,0 +1,4 @@
+Mean	Upper	Lower
+shLUC	1	0.84	1.19
+shGBP1.1	0.19	0.15	0.23
+shGBP1.2	0.32	0.27	0.37
