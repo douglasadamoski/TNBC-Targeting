@@ -10,7 +10,7 @@ Melissa Quintero, Douglas Adamoski, Larissa Menezes dos Reis, Carolline Fernanda
 
 Details:
 
-R-scripts (inside R-scripts folder)
+#R-scripts (inside R-scripts folder)
 
 Scripts should be executed in numerical order (as below), since each one create files for the next.
 Seven folders will be created, containing results from that step. Don't rename them, as the next script will look for files in the folder with that name.
